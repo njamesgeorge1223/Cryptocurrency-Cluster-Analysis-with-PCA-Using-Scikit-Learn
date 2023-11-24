@@ -1,0 +1,242 @@
+
+Timepoint: 11/23/2023 21:29:45
+Program execution begins...
+
+
+
+Timepoint: 11/23/2023 21:29:48
+[1mTable 1.2.3: Cryptocurrencies DataFrame Information:
+[0m
+
+
+Timepoint: 11/23/2023 21:29:50
+[1mTable 1.3.3: Normalized Cryptocurrency DataFrame Information:
+[0m
+
+
+Timepoint: 11/23/2023 21:29:53
+[1mUsing the WCSS Elbow Method, the optimal value for k is 4.[0m
+
+
+Timepoint: 11/23/2023 21:29:55
+[1mUsing the Calinski-Harabasz Method, the optimal value for k is 4.[0m
+
+
+Timepoint: 11/23/2023 21:29:57
+[1mUsing the Silhouette Method, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:30:00
+[1mUsing the Davies-Bouldin Method, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:30:02
+[1mThe array of cluster predictions for k = 3 is as follows:
+
+[0m[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 2
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:30:02
+[1mThe array of cluster predictions for k = 4 is as follows:
+
+[0m[2 2 0 0 2 2 2 2 2 0 0 0 0 2 0 2 0 0 2 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 0 0 3
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:30:02
+[1mThe array of cluster predictions for k = 5 is as follows:
+
+[0m[2 2 4 4 2 2 2 2 2 4 4 4 4 2 4 2 4 4 2 4 4 2 4 4 0 4 4 4 2 0 4 4 1 2 4 0 3
+ 4 4 4 4]
+
+
+Timepoint: 11/23/2023 21:30:02
+[1mThe array of cluster predictions for k = 6 is as follows:
+
+[0m[1 1 4 4 1 1 1 1 1 4 0 4 4 1 4 1 0 4 1 4 0 1 4 4 5 4 4 0 1 5 4 4 3 4 0 5 2
+ 0 4 4 4]
+
+
+Timepoint: 11/23/2023 21:30:06
+PCA1 explained variance: [1m37.20%[0m
+
+
+Timepoint: 11/23/2023 21:30:06
+PCA2 explained variance: [1m34.70%[0m
+
+
+Timepoint: 11/23/2023 21:30:06
+PCA3 explained variance: [1m17.60%[0m
+
+
+Timepoint: 11/23/2023 21:30:06
+The total explained variance of the three principal components is [1m89.50%
+
+[0m
+
+
+Timepoint: 11/23/2023 21:30:09
+[1mUsing the WCSS Elbow Method with PCA components, the optimal value for k is 4.[0m
+
+
+Timepoint: 11/23/2023 21:30:11
+[1mUsing the Calinski-Harabasz Method with PCA components, the optimal value for k is 10.[0m
+
+
+Timepoint: 11/23/2023 21:30:14
+[1mUsing the Silhouette Method with PCA components, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:30:16
+[1mUsing the Davies-Bouldin Method with PCA components, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:30:18
+[1mThe array of cluster predictions for k = 3 using PCA data is as follows:
+
+[0m[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:30:18
+[1mThe array of cluster predictions for k = 4 using PCA data is as follows:
+
+[0m[2 2 0 0 2 2 2 2 2 0 0 0 0 2 0 2 0 0 2 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 0 0 3
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:30:18
+[1mThe array of cluster predictions for k = 5 using PCA data is as follows:
+
+[0m[1 1 4 4 1 1 1 1 1 4 0 4 4 1 4 1 0 4 1 4 4 1 4 4 4 4 4 0 1 0 4 4 2 4 0 4 3
+ 0 4 4 4]
+
+
+Timepoint: 11/23/2023 21:30:18
+[1mThe array of cluster predictions for k = 6 using PCA data is as follows:
+
+[0m[3 3 0 0 3 3 3 3 3 0 4 0 0 3 0 3 4 0 3 0 4 3 0 0 0 0 0 4 3 5 0 0 2 0 4 0 1
+ 4 0 0 0]
+
+
+Timepoint: 11/23/2023 21:30:38
+Program execution begins...
+
+
+
+Timepoint: 11/23/2023 21:30:40
+[1mTable 1.2.3: Cryptocurrencies DataFrame Information:
+[0m
+
+
+Timepoint: 11/23/2023 21:30:42
+[1mTable 1.3.3: Normalized Cryptocurrency DataFrame Information:
+[0m
+
+
+Timepoint: 11/23/2023 21:30:45
+[1mUsing the WCSS Elbow Method, the optimal value for k is 4.[0m
+
+
+Timepoint: 11/23/2023 21:30:47
+[1mUsing the Calinski-Harabasz Method, the optimal value for k is 4.[0m
+
+
+Timepoint: 11/23/2023 21:30:50
+[1mUsing the Silhouette Method, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:30:52
+[1mUsing the Davies-Bouldin Method, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:30:54
+[1mThe array of cluster predictions for k = 3 is as follows:
+
+[0m[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 2
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:30:54
+[1mThe array of cluster predictions for k = 4 is as follows:
+
+[0m[2 2 0 0 2 2 2 2 2 0 0 0 0 2 0 2 0 0 2 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 0 0 3
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:30:54
+[1mThe array of cluster predictions for k = 5 is as follows:
+
+[0m[2 2 4 4 2 2 2 2 2 4 4 4 4 2 4 2 4 4 2 4 4 2 4 4 0 4 4 4 2 0 4 4 1 2 4 0 3
+ 4 4 4 4]
+
+
+Timepoint: 11/23/2023 21:30:54
+[1mThe array of cluster predictions for k = 6 is as follows:
+
+[0m[1 1 4 4 1 1 1 1 1 4 0 4 4 1 4 1 0 4 1 4 0 1 4 4 5 4 4 0 1 5 4 4 3 4 0 5 2
+ 0 4 4 4]
+
+
+Timepoint: 11/23/2023 21:30:58
+PCA1 explained variance: [1m37.20%[0m
+
+
+Timepoint: 11/23/2023 21:30:58
+PCA2 explained variance: [1m34.70%[0m
+
+
+Timepoint: 11/23/2023 21:30:58
+PCA3 explained variance: [1m17.60%[0m
+
+
+Timepoint: 11/23/2023 21:30:58
+The total explained variance of the three principal components is [1m89.50%
+
+[0m
+
+
+Timepoint: 11/23/2023 21:31:02
+[1mUsing the WCSS Elbow Method with PCA components, the optimal value for k is 4.[0m
+
+
+Timepoint: 11/23/2023 21:31:04
+[1mUsing the Calinski-Harabasz Method with PCA components, the optimal value for k is 10.[0m
+
+
+Timepoint: 11/23/2023 21:31:06
+[1mUsing the Silhouette Method with PCA components, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:31:09
+[1mUsing the Davies-Bouldin Method with PCA components, the optimal value for k is 3.[0m
+
+
+Timepoint: 11/23/2023 21:31:10
+[1mThe array of cluster predictions for k = 3 using PCA data is as follows:
+
+[0m[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:31:10
+[1mThe array of cluster predictions for k = 4 using PCA data is as follows:
+
+[0m[2 2 0 0 2 2 2 2 2 0 0 0 0 2 0 2 0 0 2 0 0 2 0 0 0 0 0 0 2 0 0 0 1 2 0 0 3
+ 0 0 0 0]
+
+
+Timepoint: 11/23/2023 21:31:10
+[1mThe array of cluster predictions for k = 5 using PCA data is as follows:
+
+[0m[1 1 4 4 1 1 1 1 1 4 0 4 4 1 4 1 0 4 1 4 4 1 4 4 4 4 4 0 1 0 4 4 2 4 0 4 3
+ 0 4 4 4]
+
+
+Timepoint: 11/23/2023 21:31:10
+[1mThe array of cluster predictions for k = 6 using PCA data is as follows:
+
+[0m[3 3 0 0 3 3 3 3 3 0 4 0 0 3 0 3 4 0 3 0 4 3 0 0 0 0 0 4 3 5 0 0 2 0 4 0 1
+ 4 0 0 0]
+
