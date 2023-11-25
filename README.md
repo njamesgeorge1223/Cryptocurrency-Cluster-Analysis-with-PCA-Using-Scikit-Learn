@@ -7,7 +7,7 @@ This Cryptocurrency Clustering project predicts if 24-hour or 7-day price change
 
 ## Steps
 
-To meet the objectives of this project, I scaled all of the cryptocurrency data with scikit-learn's StandardScalar function. Next, I determined the ideal K-Means value and clustered using four methods: WCSS Elbow, Calinski-Harabasz, Silhouette, and Davies-Bouldin.  To optimize the process, I used PCA to calculate a new optimal values of K, and then I clustered the cryptocurrencies with the PCA data.
+To meet the objectives of this project, I scale all of the cryptocurrency data with scikit-learn's StandardScalar function. Next, I determine the ideal K-Means value and cluster the cryptocurrency data using four methods: WCSS Elbow, Calinski-Harabasz, Silhouette, and Davies-Bouldin.  To optimize the process, I use PCA and calculate new optimal values of K before clustering the cryptocurrencies again.
 
 ## Results
 
