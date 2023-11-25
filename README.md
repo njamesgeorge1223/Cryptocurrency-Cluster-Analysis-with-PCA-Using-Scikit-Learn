@@ -3,18 +3,7 @@
 
 ## Overview
 
-The Crypto Clustering project aims to predict if cryptocurrencies are affected by 24-hour or 7-day price changes using unsupervised learning techniques, specifically K-means clustering. Additionally, the project explores the impact of dimensionality reduction using Principal Component Analysis (PCA) on clustering.
-
-## Steps
-
-1. Load and preprocess the data.
-2. Scale the data using StandardScaler.
-3. Find the best value for k using the elbow method.
-4. Cluster cryptocurrencies with K-means using the original scaled data.
-5. Perform PCA to reduce the features to three principal components.
-6. Find the best value for k using the PCA data.
-7. Cluster cryptocurrencies with K-means using the PCA data.
-8. Visualize and compare the results using hvPlot.
+This Cryptocurrency Clustering project predicts if cryptocurrencies are affected by 24-hour or 7-day price changes using unsupervised machine learning techniques, specifically, K-means clustering. Also, the project explores the impact of increased clustering and clarity using Principal Component Analysis (PCA) on clustering.
 
 ## Results
 
@@ -66,6 +55,6 @@ The project includes the following visualizations:
 
 ## Conclusion
 
-The project analyzes the impact of using fewer features on clustering the data using K-means. Comparing the clustering results of the original data and the PCA data helps to understand the effect of dimensionality reduction on the clustering process.
+After examining the cluster analysis results visually, the cluster distribution for PCA data has better performance and tighter grouping of data points within each cluster.  Using fewer features with the PCA data has had a positive impact with better-defined and separable clusters compared to using the original data. This reduction has helped to highlight patterns and reduce the impact of noise, leading to more meaningful clustering results.
 
 
