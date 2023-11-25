@@ -1,4 +1,4 @@
-This folder holds the output files from the IPython Notebooks, MarsNewsPy.ipynb and MarsWeatherPy.ipynb.
+This folder holds the input file for the IPython Notebook, CryptoClustering.ipynb.
 
 ----
 
