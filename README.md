@@ -3,7 +3,11 @@
 
 ## Overview
 
-This Cryptocurrency Clustering project predicts if cryptocurrencies are affected by 24-hour or 7-day price changes using unsupervised machine learning techniques, specifically, K-means clustering. Also, the project explores the impact of increased clustering and clarity using Principal Component Analysis (PCA) on clustering.
+This Cryptocurrency Clustering project predicts if 24-hour or 7-day price changes affect 42 crytpocurrencies using unsupervised machine learning techniques, specifically, K-means and Principal Component Analysis (PCA).
+
+## Steps
+
+To meet the objectives of this project, I scaled all of the cryptocurrency data with scikit-learn's StandardScalar function. Next, I determined the ideal K-Means value and clustered using four methods: WCSS Elbow, Calinski-Harabasz, Silhouette, and Davies-Bouldin.  To optimize the process, I used PCA to calculate a new optimal values of K, and then I clustered the cryptocurrencies with the PCA data.
 
 ## Results
 
@@ -55,6 +59,6 @@ The project includes the following visualizations:
 
 ## Conclusion
 
-After examining the cluster analysis results visually, the cluster distribution for PCA data has better performance and tighter grouping of data points within each cluster.  Using fewer features with the PCA data has had a positive impact with better-defined and separable clusters compared to using the original data. This reduction has helped to highlight patterns and reduce the impact of noise, leading to more meaningful clustering results.
+I found that, with the scaled data and PCA data, that four clusters was the optimal configuration, and, after examining the cluster analysis results visually, the cluster distribution for PCA data has better performance and tighter grouping of data points within each cluster.  Using fewer features with the PCA data has had a positive impact with better-defined and separable clusters compared to using the original data. This reduction has helped to highlight patterns and reduce the impact of noise, leading to more meaningful clustering results.
 
 
