@@ -3,7 +3,7 @@
 
 ## Overview
 
-This Cryptocurrency Clustering project predicts if 24-hour or 7-day price changes affect 42 crytpocurrencies using unsupervised machine learning techniques, specifically, K-means and Principal Component Analysis (PCA).
+This Cryptocurrency Clustering project predicts if 24-hour or 7-day price changes affect 42 crytpocurrencies using unsupervised machine learning techniques, specifically, K-means and Principal Component Analysis (PCA). This endeavor showcases proficiency in data manipulation, normalization, dimensionality reduction, and clustering algorithms.
 
 ## Steps
 
