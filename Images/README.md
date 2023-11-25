@@ -1,4 +1,4 @@
-This folder includes the images of tables and plots displayed in the IPython notebook, CryptoClustering.ipynb: these IPython Notebook generates the images in Image Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
+This folder includes the images of tables and plots displayed in the IPython notebook, CryptoClustering.ipynb: the IPython Notebook generates the images in Image Mode (see [README.TECHNICAL.md](./README.TECHNICAL.md)).
 
 ----
 
