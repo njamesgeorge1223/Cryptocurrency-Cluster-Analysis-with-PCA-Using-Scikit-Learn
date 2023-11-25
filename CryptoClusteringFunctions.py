@@ -1377,6 +1377,12 @@ def ReturnKClusters3DScatterPlotFunction \
                  layout = layoutObject)
     
     
+        log_subroutine \
+            .SavePlotlyImage \
+                (figureObject,
+                 figureTitleString)
+    
+    
         return figureObject.show()
     
     except:
