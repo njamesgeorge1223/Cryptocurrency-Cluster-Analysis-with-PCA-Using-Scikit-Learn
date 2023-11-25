@@ -113,7 +113,15 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
   &emsp; |&rarr; [./Images/CryptoClustering221KMeansMethodsLinePlots.png](./Images/CryptoClustering221KMeansMethodsLinePlots.png)
   
   &emsp; |&rarr; [./Images/CryptoClustering331KMeansPriceChangeScatterPlots.png](./Images/CryptoClustering331KMeansPriceChangeScatterPlots.png)
-  
+
+  &emsp; |&rarr; [./Images/CryptoClustering341CryptocurrencyPriceChange3DScatterPlotk3.png](./Images/CryptoClustering341CryptocurrencyPriceChange3DScatterPlotk3.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering342CryptocurrencyPriceChange3DScatterPlotk4.png](./Images/CryptoClustering342CryptocurrencyPriceChange3DScatterPlotk4.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering343CryptocurrencyPriceChange3DScatterPlotk5.png](./Images/CryptoClustering343CryptocurrencyPriceChange3DScatterPlotk5.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering344CryptocurrencyPriceChange3DScatterPlotk6.png](./Images/CryptoClustering344CryptocurrencyPriceChange3DScatterPlotk6.png)
+
   &emsp; |&rarr; [./Images/CryptoClustering521KMeansMethodswithPCADataLinePlots.png](./Images/CryptoClustering521KMeansMethodswithPCADataLinePlots.png)
   
   &emsp; |&rarr; [./Images/CryptoClustering631KMeansScatterPlotsPCA1vsPCA2.png](./Images/CryptoClustering631KMeansScatterPlotsPCA1vsPCA2.png)
@@ -121,7 +129,15 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
   &emsp; |&rarr; [./Images/CryptoClustering632KMeansScatterPlotsPCA1vsPCA3.png](./Images/CryptoClustering632KMeansScatterPlotsPCA1vsPCA3.png)
   
   &emsp; |&rarr; [./Images/CryptoClustering633KMeansScatterPlotsPCA2vsPCA3.png](./Images/CryptoClustering633KMeansScatterPlotsPCA2vsPCA3.png)
-  
+
+  &emsp; |&rarr; [./Images/CryptoClustering641CryptocurrencyDataUsingPCA3DScatterPlotk3.png](./Images/CryptoClustering641CryptocurrencyDataUsingPCA3DScatterPlotk3.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering641CryptocurrencyDataUsingPCA3DScatterPlotk6.png](./Images/CryptoClustering641CryptocurrencyDataUsingPCA3DScatterPlotk6.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering642CryptocurrencyDataUsingPCA3DScatterPlotk4.png](./Images/CryptoClustering642CryptocurrencyDataUsingPCA3DScatterPlotk4.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering643CryptocurrencyDataUsingPCA3DScatterPlotk5.png](./Images/CryptoClustering643CryptocurrencyDataUsingPCA3DScatterPlotk5.png)
+
   &emsp; |&rarr; [./Images/CryptoClustering711KMeansCryptocurrencyWCSSMethodLineK4.png](./Images/CryptoClustering711KMeansCryptocurrencyWCSSMethodLineK4.png)
   
   &emsp; |&rarr; [./Images/CryptoClustering712KMeansCryptocurrencywithPCAWCSSMethodLineK4.png](./Images/CryptoClustering712KMeansCryptocurrencywithPCAWCSSMethodLineK4.png)
@@ -129,6 +145,10 @@ Jupyter Notebook, Matplotlib, Numpy, Pandas, Python 3.11.4, Plotly, scikit-learn
   &emsp; |&rarr; [./Images/CryptoClustering721KMeansPriceChangeScatterK4.png](./Images/CryptoClustering721KMeansPriceChangeScatterK4.png)
   
   &emsp; |&rarr; [./Images/CryptoClustering722KMeansPriceChangewithPCAScatterPlotK4.png](./Images/CryptoClustering722KMeansPriceChangewithPCAScatterPlotK4.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering731CryptocurrencyData3DScatterPlotK4.png](./Images/CryptoClustering731CryptocurrencyData3DScatterPlotK4.png)
+
+  &emsp; |&rarr; [./Images/CryptoClustering731CryptocurrencyDatawithPCA3DScatterPlotK4.png](./Images/CryptoClustering731CryptocurrencyDatawithPCA3DScatterPlotK4.png)
   
   &emsp; |&rarr; [./Images/CryptoClusteringTable121CryptocurrenciesDataFrameTable.png](./Images/CryptoClusteringTable121CryptocurrenciesDataFrameTable.png)
   
