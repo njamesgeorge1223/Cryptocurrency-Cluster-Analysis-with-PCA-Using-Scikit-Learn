@@ -46,12 +46,12 @@ The project includes the following visualizations:
 ![CryptoClustering642CryptocurrencyDataUsingPCA3DScatterPlotk4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/fd89825a-4470-4fd4-8e27-5d5c01f20a00)![CryptoClustering643CryptocurrencyDataUsingPCA3DScatterPlotk5](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/66687040-5e46-4c0e-bec7-08ee3e1e1272)
 
 6.  Comparison of K-Means Methods Line Plots
-
-![CryptoClustering711KMeansCryptocurrencyWCSSMethodLineK4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/81db9209-fce7-4b56-8330-ccdf2f6fedf8)![CryptoClustering712KMeansCryptocurrencywithPCAWCSSMethodLineK4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/bab46b95-4d1a-42ee-96d5-0e7fc0e32b1b)
+   
+![CryptoClustering711KMeansWCSSElbowMethodOriginal](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/55f107b9-beb5-42d1-b0bd-73e4bb842ae0)![CryptoClustering712KMeansWCSSElbowMethodPCA](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/01f6dad5-afe6-4c73-a67c-1bca0d85d881)
 
 7.  Comparison of K-Means Price Change (%) Scatter Plots (2D)
-
-![CryptoClustering721KMeansPriceChangeScatterK4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/1c75c00f-2515-4d55-b690-e9552201a0da)![CryptoClustering722KMeansPriceChangewithPCAScatterPlotK4](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/0010a7c3-d17b-46ed-b96f-7661b64cce8e)
+   
+![CryptoClustering721KMeansPriceChangeOriginal](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/b1c64366-045b-4065-b2b2-fb53f64e4cf9)![CryptoClustering722KMeansPriceChangePCA](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/e09a1c9b-cc66-446a-a3a1-db361781eb3b)
 
 8. Comparison of Comparison of K-Means Price Change (%) Scatter Plots (3D) for k=4
 
