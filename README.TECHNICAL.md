@@ -50,7 +50,7 @@ PyLogSubRoutines.py
 
 PySubroutines.py
 
-If the folders, Resources, Logs, and Images are not present, the IPython notebook will create them.  The IPython notebook, CryptoClustering.ipynb, requires the csv file, CryptoMarketData.csv, to execute. To place the IPython notebook in Log Mode, Debug Mode, or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. In Debug Mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in Log Mode for log information sent to a log file. If the program is in Log Mode but NOT Debug Mode, it displays no debug information, but writes that information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG and HTML files in the Images Folder.
+If the folders, Resources, Logs, and Images are not present, the IPython notebook will create them.  The IPython notebook, CryptoClustering.ipynb, needs the csv file, CryptoMarketData.csv, in the Resources folder to execute. To place the IPython notebook in Log Mode, Debug Mode, or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. In Debug Mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in Log Mode for log information sent to a log file. If the program is in Log Mode but NOT Debug Mode, it displays no debug information, but writes that information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG and HTML files in the Images Folder.
 
 ----
 
