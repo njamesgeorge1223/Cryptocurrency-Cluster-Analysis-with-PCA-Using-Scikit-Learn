@@ -1,5 +1,10 @@
+![images](https://github.com/njgeorge000158/CryptoClustering/assets/137228821/819e9648-e46c-4e41-9877-0085e0a98801)
+
+----
+
 # Cryptocurrency Cluster Analysis with PCA Using Scikit-learn
- ----
+
+----
 
 ## Overview
 
